@@ -1,0 +1,30 @@
+.menu a {
+    padding: 10px 20px;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+    background-color: #16a34a43;
+    margin-bottom: 5px;
+}
+
+.menu a.active , .menu button{
+    border-bottom: 4px solid #16A34A;
+    background-color: transparent;
+    border-top: transparent;
+    color: #16A34A;
+}
+
+.shadow {
+    box-shadow: 1px 1px 10px;
+}
+
+.submenu a {
+    padding: 10px 20px;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 10px;
+    background-color: #16a34a43;
+    margin-top: 20px;
+}
